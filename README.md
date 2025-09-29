@@ -2,8 +2,7 @@
 
 Sou Giovanna Silva, atualmente estou no ensino médio e cursando Desenvolvimento de Sistemas
 
-[![Linkedin Badge](www.linkedin.com/in/giovanna-silva-souza)
-
+[![Linkedin Badge](https://img.shields.io/badge/-Giovanna%20Silva-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/giovanna-silva-souza)](https://www.linkedin.com/in/giovanna-silva-souza)
 ---
 
 ## ⚡ Tecnologias que eu uso
