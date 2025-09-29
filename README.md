@@ -1,6 +1,7 @@
 ## Olá! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30">
 
-Sou Giovanna Silva, atualmente estou no ensino médio e cursando Desenvolvimento de Sistemas 
+Sou Giovanna Silva, atualmente estou no ensino médio e cursando Desenvolvimento de Sistemas
+
 [![Linkedin Badge](www.linkedin.com/in/giovanna-silva-souza)
 
 ---
