@@ -22,8 +22,8 @@ Sou Giovanna Silva, atualmente estou no ensino médio e cursando Desenvolvimento
 
 <div align="center">
   <a href="https://github.com/giovannasilva2505">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=higorber&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=higorber&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=giovannasilva&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=giovannasilva&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
 ---
